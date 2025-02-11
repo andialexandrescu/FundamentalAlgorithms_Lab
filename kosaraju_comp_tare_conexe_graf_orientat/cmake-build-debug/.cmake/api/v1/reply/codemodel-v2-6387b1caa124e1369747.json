@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kosaraju_comp_tare_conexe_graf_orientat",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kosaraju_comp_tare_conexe_graf_orientat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kosaraju_comp_tare_conexe_graf_orientat-Debug-2918ebc6fea44638c369.json",
+					"name" : "kosaraju_comp_tare_conexe_graf_orientat",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/x/CLionProjects/Laborator AF/kosaraju_comp_tare_conexe_graf_orientat/cmake-build-debug",
+		"source" : "C:/Users/x/CLionProjects/Laborator AF/kosaraju_comp_tare_conexe_graf_orientat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,3 @@
+C:/Users/alice/CLionProjects/colocviu_AF/cmake-build-debug/CMakeFiles/colocviu_AF.dir
+C:/Users/alice/CLionProjects/colocviu_AF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alice/CLionProjects/colocviu_AF/cmake-build-debug/CMakeFiles/rebuild_cache.dir

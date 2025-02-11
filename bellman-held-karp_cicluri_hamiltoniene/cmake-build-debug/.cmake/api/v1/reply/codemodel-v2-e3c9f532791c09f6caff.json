@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bellman_held_karp_cicluri_hamiltoniene",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bellman_held_karp_cicluri_hamiltoniene::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bellman_held_karp_cicluri_hamiltoniene-Debug-41ac5c98e0ae9fe97521.json",
+					"name" : "bellman_held_karp_cicluri_hamiltoniene",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/alice/CLionProjects/FundamentalAlgorithms/FundamentalAlgorithms_Lab/bellman-held-karp_cicluri_hamiltoniene/cmake-build-debug",
+		"source" : "C:/Users/alice/CLionProjects/FundamentalAlgorithms/FundamentalAlgorithms_Lab/bellman-held-karp_cicluri_hamiltoniene"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

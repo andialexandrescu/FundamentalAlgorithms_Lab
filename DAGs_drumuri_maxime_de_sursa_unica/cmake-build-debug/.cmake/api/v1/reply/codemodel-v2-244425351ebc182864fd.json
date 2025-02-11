@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DAGs_drumuri_maxime_de_sursa_unica",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DAGs_drumuri_maxime_de_sursa_unica::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DAGs_drumuri_maxime_de_sursa_unica-Debug-6804310c4878170f98f7.json",
+					"name" : "DAGs_drumuri_maxime_de_sursa_unica",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/x/CLionProjects/Laborator AF/DAGs_drumuri_maxime_de_sursa_unica/cmake-build-debug",
+		"source" : "C:/Users/x/CLionProjects/Laborator AF/DAGs_drumuri_maxime_de_sursa_unica"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

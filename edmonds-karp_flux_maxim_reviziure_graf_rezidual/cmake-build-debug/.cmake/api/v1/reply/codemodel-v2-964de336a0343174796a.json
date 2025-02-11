@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "edmonds_karp_reviziure_graf_rezidual",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "edmonds_karp_reviziure_graf_rezidual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-edmonds_karp_reviziure_graf_rezidual-Debug-2c76361d5f98d3c49e69.json",
+					"name" : "edmonds_karp_reviziure_graf_rezidual",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/alice/CLionProjects/FundamentalAlgorithms/FundamentalAlgorithms_Lab/edmonds-karp_flux_maxim_reviziure_graf_rezidual/cmake-build-debug",
+		"source" : "C:/Users/alice/CLionProjects/FundamentalAlgorithms/FundamentalAlgorithms_Lab/edmonds-karp_flux_maxim_reviziure_graf_rezidual"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

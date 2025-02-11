@@ -1,0 +1,3 @@
+C:/Users/x/CLionProjects/Laborator AF/kruskal_multimi_disjuncte/cmake-build-debug/CMakeFiles/kruskal_multimi_disjuncte.dir
+C:/Users/x/CLionProjects/Laborator AF/kruskal_multimi_disjuncte/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/x/CLionProjects/Laborator AF/kruskal_multimi_disjuncte/cmake-build-debug/CMakeFiles/rebuild_cache.dir

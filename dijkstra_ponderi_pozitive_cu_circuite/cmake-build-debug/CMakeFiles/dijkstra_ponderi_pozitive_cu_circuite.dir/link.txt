@@ -1,0 +1,3 @@
+C:\Users\alice\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\dijkstra_ponderi_pozitive_cu_circuite.dir/objects.a
+C:\Users\alice\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\dijkstra_ponderi_pozitive_cu_circuite.dir/objects.a @CMakeFiles\dijkstra_ponderi_pozitive_cu_circuite.dir\objects1.rsp
+C:\Users\alice\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\dijkstra_ponderi_pozitive_cu_circuite.dir/objects.a -Wl,--no-whole-archive -o dijkstra_ponderi_pozitive_cu_circuite.exe -Wl,--out-implib,libdijkstra_ponderi_pozitive_cu_circuite.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\dijkstra_ponderi_pozitive_cu_circuite.dir\linkLibs.rsp

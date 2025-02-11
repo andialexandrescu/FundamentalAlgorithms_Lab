@@ -1,0 +1,3 @@
+C:/Users/x/CLionProjects/Laborator AF/minim_colorare_graf_planar/cmake-build-debug/CMakeFiles/minim_colorare_graf_planar.dir
+C:/Users/x/CLionProjects/Laborator AF/minim_colorare_graf_planar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/x/CLionProjects/Laborator AF/minim_colorare_graf_planar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

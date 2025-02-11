@@ -1,0 +1,3 @@
+C:/Users/x/CLionProjects/Laborator AF/BFS_infoarena/cmake-build-debug/CMakeFiles/BFS_infoarena.dir
+C:/Users/x/CLionProjects/Laborator AF/BFS_infoarena/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/x/CLionProjects/Laborator AF/BFS_infoarena/cmake-build-debug/CMakeFiles/rebuild_cache.dir

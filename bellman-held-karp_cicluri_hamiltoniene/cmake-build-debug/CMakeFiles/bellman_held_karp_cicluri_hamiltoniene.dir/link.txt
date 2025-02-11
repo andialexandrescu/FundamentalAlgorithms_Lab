@@ -1,0 +1,3 @@
+C:\Users\alice\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\bellman_held_karp_cicluri_hamiltoniene.dir/objects.a
+C:\Users\alice\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\bellman_held_karp_cicluri_hamiltoniene.dir/objects.a @CMakeFiles\bellman_held_karp_cicluri_hamiltoniene.dir\objects1.rsp
+C:\Users\alice\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\bellman_held_karp_cicluri_hamiltoniene.dir/objects.a -Wl,--no-whole-archive -o bellman_held_karp_cicluri_hamiltoniene.exe -Wl,--out-implib,libbellman_held_karp_cicluri_hamiltoniene.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bellman_held_karp_cicluri_hamiltoniene.dir\linkLibs.rsp

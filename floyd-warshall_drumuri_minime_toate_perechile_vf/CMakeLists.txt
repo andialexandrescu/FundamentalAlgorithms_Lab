@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.27)
+project(floyd_warshall_drumuri_minime_toate_perechile_vf)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(floyd_warshall_drumuri_minime_toate_perechile_vf main.cpp)

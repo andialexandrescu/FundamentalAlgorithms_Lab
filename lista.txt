@@ -1,0 +1,31 @@
+Laboratoare lucrate de mine:
+Reprezentarea unei matrice de adiacenta
+Reprezentarea unei liste de adiacenta
+Transformare matrice de adiacenta in lista de adiacenta
+Algoritmi de determinare a unui arbore partial al unui graf conex (bottom-up)
+BFS (alg + infoarena) (include determinarea nr de comp conexe folosind BF)
+DFS (alg + infoarena)
+Graf bipartit BFS
+Graf bipartit DFS
+Distante drumuri minime de la un set de puncte de control la toate celelalte noduri din graf – Caz particular implementat: Drum minim intre doua varfuri (Drumuri minime (distante) in grafuri neponderate folosind BF)
+Iesirea din labirint cu numar minim de pasi (drum minim BF)
+Clasificare arce graf orientat prin construirea unui arbore DF
+Determinarea ciclurilor/ circuitelor intr-un graf neorientat si orientat folosind DF (2 alg diferiti)
+Sortarea topologica (coada fara DF, stiva cu DF)
+Determinarea componentelor tare conexe ale unui graf orientat (Kosaraju)
+Muchii critice DFS
+Puncte critice DFS
+Componente binocexe DFS
+Kruskal APCM
+Prim APCM
+Clustering (distanta de editare Levenshtein)
+Drumuri minime in grafuri ponderate de la un varf s la celelalte (drumuri minime de sursa unica) = determinarea unui arbore al distantelor fata de s:
+Drumuri minime in grafuri orientate ponderate cu ponderi reale si care nu pot avea circuite – DAGs (Directed Acyclic Graphs)
+Drumuri maxime DAGs
+Drumuri minime in grafuri orientate ponderate cu ponderi pozitive si care pot avea circuite – Dijkstra
+Drumuri minime in grafuri orientate ponderate cu ponderi reale si care pot avea circuite si detecteaza circuite negative – Bellman-Ford
+Drumuri minime intre toate perechile de varfuri in grafuri orientate ponderate cu ponderi reale dar fara circuite negative – Floyd-Warshall
+Fluxuri maxime Edmonds-Karp cu revizuirea fluxului folosind s-t drumuri in graful rezidual
+Colorare in graf planar (greedy + backtracking)
+Determinare ciclu eulerian - HierHolzer
+Determinare ciclu hamiltonian – Bellman-Held-Karp

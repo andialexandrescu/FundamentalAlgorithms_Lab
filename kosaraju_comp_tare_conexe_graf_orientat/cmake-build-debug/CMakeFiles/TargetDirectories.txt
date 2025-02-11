@@ -1,0 +1,3 @@
+C:/Users/x/CLionProjects/Laborator AF/kosaraju_comp_tare_conexe_graf_orientat/cmake-build-debug/CMakeFiles/kosaraju_comp_tare_conexe_graf_orientat.dir
+C:/Users/x/CLionProjects/Laborator AF/kosaraju_comp_tare_conexe_graf_orientat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/x/CLionProjects/Laborator AF/kosaraju_comp_tare_conexe_graf_orientat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

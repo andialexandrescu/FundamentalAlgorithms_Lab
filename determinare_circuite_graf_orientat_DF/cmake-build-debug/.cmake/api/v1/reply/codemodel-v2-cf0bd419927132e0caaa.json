@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "determinare_circuite_graf_orientat_DF",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "determinare_circuite_graf_orientat_DF::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-determinare_circuite_graf_orientat_DF-Debug-56015e6718c7e476cc06.json",
+					"name" : "determinare_circuite_graf_orientat_DF",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/x/CLionProjects/Laborator AF/determinare_circuite_graf_orientat_DF/cmake-build-debug",
+		"source" : "C:/Users/x/CLionProjects/Laborator AF/determinare_circuite_graf_orientat_DF"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
